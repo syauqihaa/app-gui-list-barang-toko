@@ -1,1 +1,0 @@
-# Aplikasi GUI List Barang Toko
