@@ -7,6 +7,7 @@ Aplikasi GUI JavaFX CRUD untuk Menampilkan List Barang Toko
 1. Mochammad Ihza Rizky Karim, 1204190054
 2. Muhammad Arsyi Athala Affandy, 1204190044
 3. Muhammad Naufal Azizi, 1204190016
+4. Khairima Dwi Hanifa, 1204190019
 
 ## Folder Structure
 
