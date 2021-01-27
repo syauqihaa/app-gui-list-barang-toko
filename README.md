@@ -5,6 +5,7 @@ Aplikasi GUI JavaFX CRUD untuk Menampilkan List Barang Toko
 ## Kelompok 3 PBO :
 
 1. Mochammad Ihza Rizky Karim, 1204190054
+2. Muhammad Arsyi Athala Affandy, 1204190044
 
 ## Folder Structure
 
